@@ -1,0 +1,13 @@
+body{font-family: "Arial"}
+a{text-decoration: none;}
+
+.product-container{width:300px; border:1px solid #aaa; margin:10px; display:inline-block;}
+.product-container img{width:100%; height:auto;}
+.row{width:946px;}
+
+.col1{float:left;}
+.col2{margin:10px auto;}
+.col3{float:right;}
+
+.title{font-size:20px;}
+.description{padding:10px;}
