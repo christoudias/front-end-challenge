@@ -1,10 +1,6 @@
 Front-End Challenge
 ====================
 
-Presented by Touch of Modern
----------------------
-
-
 This challenge is designed to let you show your thought process and approach to some basic tasks of front-end engineering. There are many ways to perform these tasks and we are not looking for a particular "right way". However, we do appreciate some basic principles of software design including performance, maintainability, usability, etc... 
 
 Along with these tasks, we welcome any commentary or feedback. It can either be included in comments in your code or as a narrative. You are welcome to use any external libraries that you wish. Your deliverable can either be a zip, a repo on your git account, or hosted somewhere. 
