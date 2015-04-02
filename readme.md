@@ -22,4 +22,6 @@ Here you are given and HTML, JSON, javascript and css file that pill data from t
 
 * Perform a few style edits: link colors should be #0096ff, The title of the page should be 36 pixels high. The tagline of the page should be 18. Title of each product should be 16 pixels high. The product tagline should be 16. Center everything on the page including titles and the products display. 
 
-* 
+* It takes a second or two to load the page. Let the user know that the page is still loading until the page renders.
+
+* Give any thoughts or commentary on the solution here. What things did you/would you do to optimize it. Are there any outside libraries you would use? 
